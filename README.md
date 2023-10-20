@@ -1,2 +1,6 @@
 # projet-dev-mobile
-MyRecipe une application de recettes
+MyRecipe une application de recette.
+
+## Membres du groupe:
+* FLAN Paul Ismael
+* CAMARA Kaynou
