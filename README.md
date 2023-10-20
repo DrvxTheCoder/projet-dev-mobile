@@ -1,7 +1,7 @@
 # recipe-app
 
-A new Flutter project.
+MyRecipe une application de recette !
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## Membres du groupe:
+* FLAN Paul Ismael - 220783
+* CAMARA Kaynou - 220855
